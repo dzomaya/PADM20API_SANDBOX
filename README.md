@@ -13,6 +13,7 @@ https://documenter.getpostman.com/view/6407998/TVt17Pi2
 https://documenter.getpostman.com/view/6407998/TzY3BbAP
 
 Firmware update via API:
+
 https://documenter.getpostman.com/view/6407998/UVJfkFmH
 
 A Python script that takes user input and uses that to login, read info on load 1, and turn load 1 off:
